@@ -1,3 +1,5 @@
+__author__ = "Jordan Watson"
+
 import PySimpleGUI as sg
 import configparser
 
